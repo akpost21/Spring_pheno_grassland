@@ -1,0 +1,25 @@
+#
+# Transition date estimate for sevilletanewgrass
+#
+# Site: sevilletanewgrass
+# Veg Type: GR
+# ROI ID Number: 1000
+# Aggregation period: 3day
+# Year min: 2020
+# Year max: 2020
+# Final Processing Date: 2022-05-03
+# Final Processing Time: 14:12:27
+# Spline RMSE gcc_mean: 0.00085
+# Spline RMSE gcc_50: 0.00104
+# Spline RMSE gcc_75: 0.00114
+# Spline RMSE gcc_90: 0.00114
+#
+site,veg_type,roi_id,direction,gcc_value,transition_10,transition_25,transition_50,transition_10_lower_ci,transition_25_lower_ci,transition_50_lower_ci,transition_10_upper_ci,transition_25_upper_ci,transition_50_upper_ci,threshold_10,threshold_25,threshold_50,min_gcc,max_gcc
+sevilletanewgrass,GR,1000,rising,gcc_90,2020-07-21,2020-07-23,2020-07-28,2020-07-20,2020-07-22,2020-07-27,2020-07-23,2020-07-25,2020-07-29,0.31435,0.3171,0.32526,0.31204,0.33791
+sevilletanewgrass,GR,1000,rising,gcc_75,2020-07-21,2020-07-23,2020-07-28,2020-07-20,2020-07-22,2020-07-26,2020-07-23,2020-07-25,2020-07-29,0.31309,0.31589,0.32427,0.31083,0.3367
+sevilletanewgrass,GR,1000,rising,gcc_50,2020-07-21,2020-07-24,2020-07-29,2020-07-20,2020-07-23,2020-07-27,2020-07-23,2020-07-25,2020-07-30,0.31173,0.31587,0.3237,0.30969,0.33457
+sevilletanewgrass,GR,1000,rising,gcc_mean,2020-07-21,2020-07-23,2020-07-28,2020-07-20,2020-07-22,2020-07-27,2020-07-23,2020-07-25,2020-07-29,0.31175,0.31435,0.32222,0.30968,0.33453
+sevilletanewgrass,GR,1000,falling,gcc_90,2020-09-29,2020-09-12,2020-08-29,2020-10-03,2020-09-14,2020-09-01,2020-09-22,2020-09-08,2020-08-27,0.31548,0.3189,0.32552,0.31324,0.33741
+sevilletanewgrass,GR,1000,falling,gcc_75,2020-09-28,2020-09-10,2020-08-27,2020-10-03,2020-09-14,2020-08-30,2020-09-21,2020-09-06,2020-08-25,0.31487,0.31844,0.32456,0.31254,0.33616
+sevilletanewgrass,GR,1000,falling,gcc_50,2020-09-28,2020-09-11,2020-08-26,2020-10-03,2020-09-13,2020-08-29,2020-09-18,2020-09-07,2020-08-24,0.31362,0.31675,0.3232,0.31148,0.33404
+sevilletanewgrass,GR,1000,falling,gcc_mean,2020-09-30,2020-09-12,2020-08-28,2020-10-03,2020-09-14,2020-08-31,2020-09-24,2020-09-09,2020-08-27,0.31321,0.31667,0.32286,0.31104,0.33421
